@@ -1,0 +1,46 @@
+
+.cards-votacao {
+  max-width: 30%;
+}
+
+
+.cards-votacao {
+  max-width: 30%;
+}
+
+.small-box, .large-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 16px;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.small-box {
+  height: 100px;
+  width: 100px;
+}
+
+.large-box {
+  height: 300px;
+  width: 300px;
+
+}
+
+.mat-tab-body {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: revert !important;
+  display: block;
+  overflow: hidden;
+  flex-basis: 100%;
+}
+
+
+position-revert {
+  position: revert !important;
+}
+
